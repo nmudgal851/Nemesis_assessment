@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <h1>Nemesis Consultants LLP Assignment</h1>
+      <h1>Tables</h1>
       <UserTable />
     </div>
   );
